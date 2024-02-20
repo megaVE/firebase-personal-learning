@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 30px 10px;
+}
+
+.section-container {
+  border: 2px solid black;
+  margin: 10px auto;
+  padding: 10px 20px;
+}
+
+.section-container h2 {
+  margin-bottom: 15px;
+}
